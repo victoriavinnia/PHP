@@ -73,6 +73,7 @@ for($i = 0; $num >= 50; $i++) {
 
 $book = ['title'=>'PHP 7', 'pageCount' => 342];
 var_dump(array_chunk($book, 1));
+// extract
 
 // 2. Функция, которая возвращает количество элементов в массиве?
 var_dump(count($book));
