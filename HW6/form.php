@@ -13,6 +13,6 @@
         <input type="url" placeholder="Введите ссылку" name="url" id="url">
         <input type="submit" name="submit" value="Отправить">
     </form>
-<!--<script src="form.js"></script>-->
+
 </body>
 </html>

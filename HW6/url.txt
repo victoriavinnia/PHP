@@ -1,6 +1,5 @@
-http://php-lessons/PHP/HW6/form.php : cKUrPw
-http://ajc.su/web-razrabotka/php/prostoj-sokrashhatel-ssylok-na-php/ : KFrms0
-http://php-lessons/PHP/HW6/form_handler.php : qelnpt
-http://old.code.mu/tasks/javascript/ : generate(Array)
- : 
- : 
+http://old.code.mu/tasks/php/base/priemy-raboty-s-massivami-na-php.html : E5qion
+https://www.php.net/manual/ru/function.file.php : XHlZzN
+https://www.php.net/manual/ru/function.serialize.php : PwQXxA
+http://php-lessons/PHP/HW6/form_handler.php : YscwKQ
+http://php-lessons/PHP/HW6/form.php : swdg2N
